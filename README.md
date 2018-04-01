@@ -7,6 +7,7 @@ Diese Programm kann automatische Arbeit Bewerbung
 
 
 Alle Zubehörteile（z.B: Lebenslauf.pdf） bitte legen in die Ordner "send_together"
-!!!!Alle File in send_together werden mitgesendet!!
+
+!!!!Alle File in send_together werden zusammen gesendet!!
 
 Viel erfolgt!!
